@@ -1,4 +1,4 @@
-## PHP Verification Captcha by ibnusyawal
+## Put Watermark in Image by ibnusyawall
 
 ### require:
 
@@ -16,10 +16,10 @@
 
 #### before
 <p align="center">
-    <img alt="before" href="https://github.com/ibnusyawall/tes_lks/blob/master/PART_D/BACKEND_DEVELOPMENT/watermark/smkn1pdh.jpeg">
+    <img alt="before" src="https://github.com/ibnusyawall/tes_lks/blob/master/PART_D/BACKEND_DEVELOPMENT/watermark/smkn1pdh.jpeg">
 </p>
 
 #### after
 <p align="center">
-    <img alt="after" href="https://github.com/ibnusyawall/tes_lks/blob/master/PART_D/BACKEND_DEVELOPMENT/watermark/smkn1pdh(watermark).png">
+    <img alt="after" src="https://github.com/ibnusyawall/tes_lks/blob/master/PART_D/BACKEND_DEVELOPMENT/watermark/smkn1pdh(watermark).png">
 </p>
