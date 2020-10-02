@@ -10,9 +10,16 @@
 ```
 
 ### rules:
-- !translate id Put a watermark (png file) on the image provided. The watermark should be in the 
-lower right corner: (oke)(done)
+- Put a watermark (png file) on the image provided. The watermark should be in the lower right corner: (oke)(done)
 
 ### result/hasil/before-after
 
-DEMO: [disini](http://nesapa.me/me/captcha)
+#### before
+<p align="center">
+    <img alt="before" href="https://github.com/ibnusyawall/tes_lks/blob/master/PART_D/BACKEND_DEVELOPMENT/watermark/smkn1pdh.jpeg">
+</p>
+
+#### after
+<p align="center">
+    <img alt="after" href="https://github.com/ibnusyawall/tes_lks/blob/master/PART_D/BACKEND_DEVELOPMENT/watermark/smkn1pdh(watermark).png">
+</p>
